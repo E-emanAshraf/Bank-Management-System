@@ -1,0 +1,10 @@
+﻿  Source.cpp
+C:\Users\EMAN\source\repos\bank project\we_bank.h(11,37): warning C4244: 'argument': conversion from 'double' to 'WORD', possible loss of data
+  admin.cpp
+  client.cpp
+  datasourceinterface.cpp
+  employee.cpp
+  implementdatasource.cpp
+  input.cpp
+  Generating Code...
+  bank project.vcxproj -> C:\Users\EMAN\source\repos\bank project\x64\Debug\bank project.exe
